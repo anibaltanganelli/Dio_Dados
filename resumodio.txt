@@ -1,0 +1,61 @@
+Dados
+
+- Representam um conjunto de palavras que fonecem algum tipo de informação. 
+- Dados são fatos e todo o tipo de registro, seja eletrônico ou não, pode ser considerado um BD.
+- Dados permitem que se acesse o público de forma assertiva, porém precisam ser confiáveis e persistidos.
+- Big Data: velocidade, variedde e volume
+
+Banco de Dados
+
+- Relacionais: Conjunto de dados que se relacionam. O modelo relacional foi estudado e elaborado por Edgar F Codd em 1970. 
+- É baseado em álgebra relacional pela teoria dos conjuntos.
+- hierárquicos e relacionais (árvores, objetos).
+- Rede (Ponteiro e nós)
+- Não Relacionais
+
+SGBDs (Sistemas de Gerenciamento de Banco de Dados)
+
+- Nos sistemas que usam o modelo relacional. Nele sempre há um contexto.
+- Os mais utilizados são Oracle, MySql, SQL server, MongoDB(não relacional) e Postgress. 
+- Trouxeram grandes benefícios em relação às pesquisas (destaque ao 4.o paradigma cientifico - simulções e exploração de dados).
+- Sua construção se dá pela inserçao de dados e a manipulação recupera informações e gra relatórios.
+- Possui compartilhamento simultâneo e pode ser gerenciado pelo DBA.
+- Também existem os usuários de consulta.
+- Ciclo de vida longo e podem utilizar outros softwares para auxiliar em suas tarefas.
+- Muitas empresas possuem diversos SGBDs com uma área de integração para cada caso.
+
+- Não relacionais
+	- Documentos (ex. MongoDb. Baixa curva de aprendizado, baseado em Json, estabilidade horizontal, suporta JavaScript)
+	- Colunas (ex. Cassandra. Perfomático, descentralizado, consultas em CQL)
+	- Key-Value (ex. Redis. escrito em C, compatível com outras linguagens, performático, suporta strings, sets, Json, graphs)
+	- Grafos (ex. Neo4J. Escrito em Java, Cypher para queries, usado em data science, compatível com python, hodejs, go, .ney e java)
+	- Objetos (ex. db4objects. Open source, escrito em .net e java, cross plataform).
+
+Para a escolha do SGBD mais adequado é preciso entender as necessidades das empresas e os dados necessários. 
+Fazem parte dessa decisão uma análise sobre a popularidade, a documentação disponível, o tempo de mercado, a confiabilidade, 
+a segurança, ser multiplataforma e sua robustez.
+
+SGBDs em nuvem (Amazon RDS, AzureDB, DynamoDB Aurora e Redshift)         
+
+
+Siglas
+- BD (Banco de dados)
+- LDD (Linguagem de Definição de Dados ou DDL).
+- SGBDs (Sistemas de Gerenciamento de Banco de Dados)
+- DBA (Administrador do Banco de Dados).
+- HPC (High Performance Computing)
+- DBMS (Data Base Management System).
+- HPC (High Performance Computing).
+- NoSQL (Not Only SQL).
+- OLTP (Online Transaction Processing)
+- OLAP (Online Analytical Processing)
+- ELT (Extract, Load e Transform)
+
+
+Carreira de dados:
+- Data driven (Limpar - estudar - entender - decidir)
+- Engenheiro de dados (desenho e construção de soluções)
+- Cientista (modelagem, relacionamento e responder perguntas)
+- Analista (Dashboards e apresentação visual)
+
+
